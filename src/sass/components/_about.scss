@@ -1,7 +1,6 @@
 .section--about {
     background-color: $bcg-light;
     
-    
     @include tab {
         padding-top: 20px;
     }
@@ -166,7 +165,6 @@
     line-height: 1.58;
     font-weight: 500;
 
-    // width: 220px;
     margin-right: 80px;
 
     &--top {
